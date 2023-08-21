@@ -1,0 +1,23 @@
+# .gitignore for Python projects
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Dependency directories
+venv/
+virtualenv/
+env/
+
+# IDE-specific directories
+.idea/
+.vscode/
+
+# Mac OS junk
+.DS_Store
+
+# pytest cache
+.pytest_cache/
+
+# output files
+out/
